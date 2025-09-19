@@ -1,1 +1,12 @@
-{"bass":["/bass/bass0.wav","/bass/bass1.wav","/bass/bass2.wav"]}
+{
+    "bass":[
+        "/bass/bass0.wav",
+        "/bass/bass1.wav",
+        "/bass/bass2.wav"
+    ],
+    "shakers": [
+        "/shakers/shaker0.wav"
+    ]
+    
+    
+}
