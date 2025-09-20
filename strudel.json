@@ -6,6 +6,9 @@
     ],
     "shakers": [
         "/shakers/shaker0.wav"
+    ],
+    "crash": [
+        "/crash/crash0.wav"
     ]
     
     
